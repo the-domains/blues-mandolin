@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blues Mandolin ]]></title>
+        <description><![CDATA[Blues Mandolin ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 18:01:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bert Deivert& Copperhead Run ]]></title>
+            <description><![CDATA[<article><h1>Bert Deivert& Copperhead Run </h1><p>the BEST OF 2015 blues albums</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f53f7a107b48a6ea5bcf0196c87971d6c0c049.jpg"></article>]]></description>
+            <link>undefinedbert-deivertand-copperhead-run/index.html</link>
+            <guid isPermaLink="false">d7f88b5f-27fa-4f9c-bf55-bc906c702c42</guid>
+            <pubDate>Wed, 06 Jan 2016 18:01:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
